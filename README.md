@@ -2,9 +2,10 @@
 
 ### 🚀 Algorithmic Trading | Solana | Forex | Python | Rust | MQL5 | AI & Quant Systems
 
-![Profile Views](https://komarev.com/ghpvc/?username=alphaengine9&label=Profile%20Views&color=blueviolet&style=flat)
 [![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)](https://www.python.org)
 [![Rust](https://img.shields.io/badge/Rust-Advanced-orange?logo=rust)](https://www.rust-lang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?logo=typescript)](https://www.typescriptlang.org)
+[![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-Expert-lightgrey?logo=metatrader&logoColor=white)](https://www.metatrader5.com)
 
 ---
 
