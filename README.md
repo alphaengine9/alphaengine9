@@ -14,7 +14,7 @@
 I’m a **Trading Developer** specializing in **automated trading systems** for both **crypto (Solana ecosystem)** and **forex markets**.  
 I design, build, and deploy **algorithmic trading bots**, **indicators**, and **data-driven trading frameworks** that combine high performance with real market intelligence.
 
-With solid experience in **Python, Rust, C++, and MQL5**, I create fast, reliable, and secure trading tools — from **on-chain Solana DEX bots** to **MetaTrader EAs** powered by AI models.
+With solid experience in **Python, Rust, Typescript, C++, and MQL5**, I create fast, reliable, and secure trading tools — from **on-chain Solana DEX bots** to **MetaTrader EAs** powered by AI models.
 
 ---
 
