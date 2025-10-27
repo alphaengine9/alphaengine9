@@ -3,7 +3,6 @@
 ### 🚀 Algorithmic Trading | Solana | Forex | Python | Rust | MQL5 | AI & Quant Systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alphaengine9&label=Profile%20Views&color=blueviolet&style=flat)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?logo=upwork)](https://www.upwork.com/freelancers/your-upwork-username)
 [![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)](https://www.python.org)
 [![Rust](https://img.shields.io/badge/Rust-Advanced-orange?logo=rust)](https://www.rust-lang.org)
 
@@ -15,9 +14,6 @@ I’m a **Trading Developer** specializing in **automated trading systems** for 
 I design, build, and deploy **algorithmic trading bots**, **indicators**, and **data-driven trading frameworks** that combine high performance with real market intelligence.
 
 With solid experience in **Python, Rust, C++, and MQL5**, I create fast, reliable, and secure trading tools — from **on-chain Solana DEX bots** to **MetaTrader EAs** powered by AI models.
-
-💼 Open for freelance and collaboration opportunities on **Upwork** —  
-**[▶️ Hire me on Upwork](https://www.upwork.com/freelancers/your-upwork-username)**  
 
 ---
 
@@ -93,13 +89,6 @@ With solid experience in **Python, Rust, C++, and MQL5**, I create fast, reliabl
 - [🔹 **Forex-AI-Signal-EA**](https://github.com/alphaengine9/Forex-AI-Signal-EA)
 - [🔹 **Algo-Backtesting-Framework**](https://github.com/alphaengine9/Algo-Backtesting-Framework)
 - [🔹 **Market-Maker-Solana**](https://github.com/alphaengine9/Market-Maker-Solana)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaengine9&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaengine9&layout=compact&theme=tokyonight)
 
 ---
 
