@@ -98,7 +98,7 @@ With solid experience in **Python, Rust, Typescript, C++, and MQL5**, I create f
 - [🔹 **Forex-AI-Signal-EA**](https://github.com/alphaengine9/Forex-AI-Signal-EA)
 - [🔹 **Market-Maker-Framework**](https://github.com/alphaengine9/Market-Maker-Framework)
 - [🔹 **Multi-Asset-Backtesting-Suite**](https://github.com/alphaengine9/Multi-Asset-Backtesting-Suite)
-- [🔹 **Jupiter-Aggregator-Bot**](https://github.com/alphaengine9/Jupiter-Aggregator-Bot)
+- [🔹 **Jupiter-Aggregator-Bot**](https://github.com/alphaengine9/Solana-Jupiter-Arbitrage-Bot)
 - [🔹 **DeFi-Farming-Automation**](https://github.com/alphaengine9/DeFi-Farming-Automation)
 - [🔹 **CEX-DEX-Arbitrage-System**](https://github.com/alphaengine9/CEX-DEX-Arbitrage-System)
 - [🔹 **AI-Volatility-Predictor**](https://github.com/alphaengine9/AI-Volatility-Predictor)
